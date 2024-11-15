@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "personalizatuviaje-5dbe6",
+  "private_key_id": "b383981ad92d739dbce7b068b299ff8b083259b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQConDbW1Xd5trVK\n/DgZA+yeprtDAn8bRKawpSDNysjuRgzwXDuQ+lSswDigocH0O4GvqslZSRYYJ3CF\nSGg6NrIepCmlPgEEeZYZj2Dblm/GOOLeKEXimNjS7gmntV055wLlob2zdvJqm6vC\n2yVOGK9pMfecYb7ppyfhaYpWZMWTrOdbFZngEeB3rnFtfhs32vUlm1XGKrv6VjeA\nicAzl/dAtZfNViHV47UqxAafKi2QLxtbNJiCPmJh0ZkuRadtTTdGZgwnMGQdeSVG\n+3qVvZuTM4f3yKxAl11S+ThsKV0xPJIeAvnh8rn9JRzmBNgAiW1hz6Kt7H6I8CKV\nHhj3v02fAgMBAAECggEAQPzU9kEY58TQY7KLPLkSfqPtEYroyu3PAc7jse4zPAOs\nAQjLvLl/4YXFTcSLKUO2XKsLKGrPJUguSnD6G1XxmXXUx2f6pGrou7lTr89wDYrn\nhpEnPouDJumwtv9ki2jK6Q9KOt3h2c1eiqBE5LEHCxjDQ3c5Sn2vFWbEd0AoFx6x\nc/uBzhDyQ3/JiTusUav8DQpv2xypf4F5mFwLoBN3LadQu6V6Xoq1z2l1C5w/C8nn\nG30+aM52QbncD6CEfQyQscqNT39oRen1FlJCvQEt9Zb0OqGZjlpFmplyxrRBbaXz\nP2eUbi1JY2sMglwhAjNpmoD1/zeJKOeUq1GVwLgiwQKBgQDRi0u5zJmDeA+Iq1h9\ndFO5YJLAhv9GpD4XZgNyTwpwvL6fP8zTUDgK8rMI4sPkto/+Bs9eftTsmrXCxYPV\nqBi/7U/7pKpT9YGJVBoDNmsbsDE8cG8cMEBhZTlX3Z3cSC3QEVJg6etbrcsubLy9\n+tMQ2d5Icsy9tbQ3aYcmGxFEmQKBgQDN/bV3Y9R2kuA/IqgX+TKxhfiaDhzwfYIK\nhMJXf8iY8vlhB+Y9qHEK9nEvJDSOvOkmHMXul1PnM8p/2DtaNOsIkr1LZDGVWhcy\n3tIhzaDKKmNI9W8Bc0FWR6xdQFsuMVgK18IxYB0utfMWGyUfl874YbrIXzpsddN5\ny6cnNtvO9wKBgQC3/A2OYuX7eERzZLc62BPXNcNExoOHvBhEpS6rhFkPaboZy4QF\nmm7KthSa3bjQrbc6fTJAry43XRPwo0pBI+ovQqgytH9VXr/RG4YHghWDZy2j+rik\nUH2GxsEVtCGyU7Hd+geRznH3ul4nMhR63qvKJPG2PQ4mGE/XQ5IF1EhSKQKBgDgi\nEghV0Pj671blF89onhLYQjWg8OvsF7rMELWNYdmkJKb3YxucQinNnGxPPm9DNXmo\nT5vD6x5O87jA8POVBhNRAXqA9C4R3c6D/9ksUsukn2erUjOf98cOQv8qYW6GDcru\nnsGbwngPJw34GbaxRLpUz3R41s/lj9pZz9QU0/NjAoGADdAsDfMR3lqAb5HDXDpm\ncrdXfcpLH3ef2iOFgk4dJ/oiKaKjYqFPyjCzepPleljfURRd95g9z5icasppODsw\npq3+ZRiGnZ+2jhi8/GeJq7lQdLHebNUH4UuBCLelzkd4pcdfCO28IVhwgGayLxxu\nC6h+PRIc2B/GX0QPkMzQS/Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8d3sp@personalizatuviaje-5dbe6.iam.gserviceaccount.com",
+  "client_id": "102285504708600196244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8d3sp%40personalizatuviaje-5dbe6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
